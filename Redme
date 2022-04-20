@@ -1,0 +1,4 @@
+  // status code meaning in request friends model
+        // 1 i.e requested friend
+        // 0 : not requested or after decline 
+        // 2 : after friend
